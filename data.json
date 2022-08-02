@@ -1,7 +1,36 @@
 {
-  "error": {
-    "code": 429,
-    "message": "Resource has been exhausted (e.g. check quota).",
-    "status": "RESOURCE_EXHAUSTED"
-  }
+  "range": "'スポットデータ'!A1:J84",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/06/08",
+      "空港",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Naha_Airport13s3s4410.jpg",
+      "26.207996",
+      "127.650617",
+      "那覇空港",
+      "那覇空港は、沖縄県那覇市にある空港。国内線の基幹空港で、空港法第4条第1項第6号に該当する空港として政令で定める空港 に区分される。隣接する航空自衛隊那覇基地の施設が併設され、民間機と自衛隊機が共同で使用する軍民共用の飛行場である。"
+    ],
+    [
+      "2022/06/08",
+      "土産",
+      "https://www.ikutouen.com/images/index/slide1.jpg",
+      "26.21303",
+      "127.691621",
+      "壺屋焼窯元育陶園",
+      "沖縄の那覇、人で賑わう通りの隣に壺屋はあります。育陶園はこの地に三百年続く壺屋焼の窯元です"
+    ]
+  ]
 }
